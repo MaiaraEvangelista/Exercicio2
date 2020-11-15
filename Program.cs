@@ -18,6 +18,7 @@ namespace Atividade2
 
             Console.WriteLine("Converta sua idade em semanas, digite aqui sua idade: ");
             int conversao = int.Parse(Console.ReadLine());
+            Console.WriteLine("-------------------------------");
             Console.WriteLine(resultado*48);
             
         }
